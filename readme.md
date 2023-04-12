@@ -1,6 +1,6 @@
 # Flexible Measurement-based Modeling Generators
 
-This repository contains the modeling generators for our IEEE IWQoS'23 contributed paper "A Holistic QoS View of Crowdsourced Edge Cloud Platform".
+The paper in IEEE IWQoS'23 conference -- "A Holistic QoS View of Crowdsourced Edge Cloud Platform".
 
 ### Introduction
 
