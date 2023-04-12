@@ -1,6 +1,8 @@
 # Flexible Measurement-based Modeling Generators
 
-### About
+This repository contains the modeling generators for our IEEE IWQoS'23 contributed paper "A Holistic QoS View of Crowdsourced Edge Cloud Platform".
+
+### Introduction
 
 In order to facilitate the interested reader to better apply our measurement findings, we have implemented the complete modeling generator based on Python and provided the necessary quantitative data to support it. In addition, this project uses GDP as well as geographic data from some regions of the USA as an example to help readers understand the implementation details. Hope this project can provide a real experience for the research and application of edge computing.
 
