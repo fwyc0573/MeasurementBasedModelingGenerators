@@ -1,6 +1,6 @@
 # Flexible Measurement-based Modeling Generators
 
-The paper in IEEE IWQoS'23 conference -- "A Holistic QoS View of Crowdsourced Edge Cloud Platform".
+The paper has been accepted by IEEE IWQoS'23 conference -- "A Holistic QoS View of Crowdsourced Edge Cloud Platform".
 
 ### Introduction
 
