@@ -1,6 +1,6 @@
 # Flexible Measurement-based Modeling Generators
 
-The paper has been accepted by IEEE IWQoS'23 conference -- "A Holistic QoS View of Crowdsourced Edge Cloud Platform".
+Shihao Shen , Yicheng Feng, Mengwei Xu, Cheng Zhang, Xiaofei Wang, Wenyu Wang and Victor C.M. Leung, "A Holistic QoS View of Crowdsourced Edge Cloud Platform," in **IEEE/ACM International Symposium on Quality of Service (IWQoS)**, 2023.
 
 ### Introduction
 
