@@ -1,6 +1,8 @@
 # Flexible Measurement-based Modeling Generators
 
 ### Introduction
+Yicheng Feng, Shihao Shen, Xiaofei Wang, Mengwei Xu, Cheng Zhang, Xin Wang, Wenyu Wang, Victor C. M. Leung. A Large-scale Holistic Measurement of Crowdsourced Edge Cloud Platform, in **Springer World Wide Web (WWWJ)**, 2023. 
+
 Shihao Shen, Yicheng Feng, Mengwei Xu, Cheng Zhang, Xiaofei Wang, Wenyu Wang and Victor C.M. Leung, "A Holistic QoS View of Crowdsourced Edge Cloud Platform," in **IEEE/ACM International Symposium on Quality of Service (IWQoS)**, 2023.
 
 In order to facilitate the interested reader to better apply our measurement findings, we have implemented the complete modeling generator based on Python and provided the necessary quantitative data to support it. In addition, this project uses GDP as well as geographic data from some regions of the USA as an example to help readers understand the implementation details. Hope this project can provide a real experience for the research and application of edge computing.
