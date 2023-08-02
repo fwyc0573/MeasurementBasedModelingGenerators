@@ -43,6 +43,10 @@ pip3 install -r requirements.txt
 If this paper can benefit your scientific publications, please kindly cite it.
 
 ```
-Shihao Shen, Yicheng Feng, Mengwei Xu, Cheng Zhang, Xiaofei Wang, Wenyu Wang, Victor C.M. Leung. A Holistic QoS View of Crowdsourced Edge Cloud Platform. IEEE/ACM International Symposium on Quality of Service (IWQoS). 2023.
+Yicheng Feng, Shihao Shen, Xiaofei Wang, Mengwei Xu, Cheng Zhang, Xin Wang, Wenyu Wang, Victor C. M. Leung. A Large-scale Holistic Measurement of Crowdsourced Edge Cloud Platform, in Springer World Wide Web (WWWJ), 2023. 
+```
+
+```
+Shihao Shen, Yicheng Feng, Mengwei Xu, Cheng Zhang, Xiaofei Wang, Wenyu Wang, Victor C.M. Leung. A Holistic QoS View of Crowdsourced Edge Cloud Platform, IEEE/ACM International Symposium on Quality of Service (IWQoS), 2023.
 ```
 
